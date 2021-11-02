@@ -1,0 +1,80 @@
+PID                  0
+MS SubClass          0
+MS Zoning            0
+Lot Frontage       160
+Lot Area             0
+Street               0
+Alley              820
+Lot Shape            0
+Land Contour         0
+Utilities            0
+Lot Config           0
+Land Slope           0
+Neighborhood         0
+Condition 1          0
+Condition 2          0
+Bldg Type            0
+House Style          0
+Overall Qual         0
+Overall Cond         0
+Year Built           0
+Year Remod/Add       0
+Roof Style           0
+Roof Matl            0
+Exterior 1st         0
+Exterior 2nd         0
+Mas Vnr Type         1
+Mas Vnr Area         1
+Exter Qual           0
+Exter Cond           0
+Foundation           0
+Bsmt Qual           25
+Bsmt Cond           25
+Bsmt Exposure       25
+BsmtFin Type 1      25
+BsmtFin SF 1         0
+BsmtFin Type 2      25
+BsmtFin SF 2         0
+Bsmt Unf SF          0
+Total Bsmt SF        0
+Heating              0
+Heating QC           0
+Central Air          0
+Electrical           1
+1st Flr SF           0
+2nd Flr SF           0
+Low Qual Fin SF      0
+Gr Liv Area          0
+Bsmt Full Bath       0
+Bsmt Half Bath       0
+Full Bath            0
+Half Bath            0
+Bedroom AbvGr        0
+Kitchen AbvGr        0
+Kitchen Qual         0
+TotRms AbvGrd        0
+Functional           0
+Fireplaces           0
+Fireplace Qu       422
+Garage Type         44
+Garage Yr Blt       45
+Garage Finish       45
+Garage Cars          0
+Garage Area          0
+Garage Qual         45
+Garage Cond         45
+Paved Drive          0
+Wood Deck SF         0
+Open Porch SF        0
+Enclosed Porch       0
+3Ssn Porch           0
+Screen Porch         0
+Pool Area            0
+Pool QC            874
+Fence              706
+Misc Feature       837
+Misc Val             0
+Mo Sold              0
+Yr Sold              0
+Sale Type            0
+dtype: int64
